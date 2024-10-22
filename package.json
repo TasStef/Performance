@@ -1,0 +1,16 @@
+{
+  "name": "media_queries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minify": "terser script3.js -o script3.min.js --compress --mangle"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "terser": "^5.36.0"
+  }
+}
