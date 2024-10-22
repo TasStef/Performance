@@ -2,6 +2,9 @@
 
 This is a comparison between two web applications. The original application is a simple web application that displays a list of items. The optimized application is a modified version of the original application that has been optimized for performance.
 
+In the Original branch you can find the original project.
+The optimized performance code is in the Improved-Performance branch.
+
 The summary reports were created with Chrome lighthouse and can be found at:
 - [Original App](./Original%20performance%20report.pdf)
 - [Optimized App](./Optimized%20performance%20report.pdf)
